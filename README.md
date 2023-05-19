@@ -1,2 +1,22 @@
-# nostr-quote-bot
-A Nostr quote bot for Linux. Picks a random line from a text file and sends it to Nostr.
+# Nostr quote bot
+
+A Nostr quote bot for Linux. Picks a random line from a text file and sends it to Nostr using [Noscl.](https://github.com/fiatjaf/noscl)
+
+[Full guide here.](https://habla.news/a/naddr1qqnkummnw3ez6ut4da6x2uedvfhhgtts096xsmmw94eksetvdskhvetj0ykk2ctn0yqjzamnwvaz7tmjv4kxz7fww35x2mmjv9hxwetsd9kxcctswqhxxmmd9uqs7amnwvaz7tmw9eux6u3wwdjj7qglwaehxw309ahx7um5wghxymr0vd4hqmmhv4ezucmpwp5hgctv9uq3jamnwvaz7tmjv4kxz7fwwdhx7un59eek7cmfv9kz7qgewaehxw309aex2mrp0yhxzatnw3exjcmg9ehx2ap0qgs0plu8uaukh2r0ep95spajtfw7ugrdwfxx7cd23pfewk3emmh07kqrqsqqqa286tzjfv)
+
+Comes in three parts:
+
+* Python script
+* Shell script
+* Crontab entry
+
+You simply provide:
+
+* A text file with a new quote (or whatever you want to post) on each line
+
+Dependencies:
+
+* Python 3
+* Go (for Noscl)
+* Noscl
+* Linux
