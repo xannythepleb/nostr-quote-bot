@@ -1,5 +1,7 @@
 # Nostr quote bot
 
+**Update 26/05/22: Quotes.py script totally rewritten to avoid duplicates. For details see the comments in [the script.](https://github.com/xannythepleb/nostr-quote-bot/blob/main/quotes.py)**
+
 A Nostr quote bot for Linux. Picks a random line from a text file and sends it to Nostr using [Noscl.](https://github.com/fiatjaf/noscl)
 
 [Full guide here.](https://habla.news/a/naddr1qqnkummnw3ez6ut4da6x2uedvfhhgtts096xsmmw94eksetvdskhvetj0ykk2ctn0yqjzamnwvaz7tmjv4kxz7fww35x2mmjv9hxwetsd9kxcctswqhxxmmd9uqs7amnwvaz7tmw9eux6u3wwdjj7qglwaehxw309ahx7um5wghxymr0vd4hqmmhv4ezucmpwp5hgctv9uq3jamnwvaz7tmjv4kxz7fwwdhx7un59eek7cmfv9kz7qgewaehxw309aex2mrp0yhxzatnw3exjcmg9ehx2ap0qgs0plu8uaukh2r0ep95spajtfw7ugrdwfxx7cd23pfewk3emmh07kqrqsqqqa286tzjfv)
