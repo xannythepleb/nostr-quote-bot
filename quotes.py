@@ -1,5 +1,6 @@
 import random
 import os
+import sys
 import json
 
 # New version rewritten from the ground up
@@ -30,5 +31,8 @@ def get_quote():
             json.dump(lines, f)
 
     return quote
+
+if not os.path.exists(quotes_file):
+    sys.exit(f"quotes.txt is missing - please put a file named quotes.txt in the same directory as this script.")
 
 print(get_quote())
