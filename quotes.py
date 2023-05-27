@@ -21,6 +21,7 @@ def get_quote():
             lines = f.readlines()
         random.shuffle(lines)
 
+    # Pick a quote to print then delete it from temp_quotes.txt
     quote = lines.pop()
 
     # If the list is empty delete temp file, else write the remaining quotes (minus the one just used) back
@@ -30,8 +31,10 @@ def get_quote():
         with open(temp_file, 'w') as f:
             json.dump(lines, f)
 
+    # The final product
     return quote
 
+# Check if quotes.txt exists before running the function, warn user if not
 if not os.path.exists(quotes_file):
     sys.exit(f"quotes.txt is missing - please put a file named quotes.txt in the same directory as this script.")
 
