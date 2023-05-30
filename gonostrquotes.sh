@@ -4,6 +4,6 @@
 # Make sure this script has the executable permission!
 # chmod +x gonostrquotes.sh
 
-b=$(b=$(/usr/local/go/bin/go run /home/[you]/quotes.py)
+b=$(/usr/local/go/bin/go run /home/[you]/quotes.py)
 echo $b
 /home/[you]/go/bin/noscl publish "$b"
