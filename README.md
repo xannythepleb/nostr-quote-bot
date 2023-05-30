@@ -10,7 +10,7 @@ Be sure to read the comments in the shell scripts and the crontab example so you
 
 [Here is an example of this in action!](https://primal.net/profile/npub1ms4z8e2fsgjh75vtk8c9pym50gjvp3uxl7uru8v7c7pnd9empadq2ulevr)
 
-[Or click here to open in a Nostr client you have installed (especially useful on mobile).](nostr:npub1ms4z8e2fsgjh75vtk8c9pym50gjvp3uxl7uru8v7c7pnd9empadq2ulevr)
+[Or click here to open in a Nostr client you have installed (especially useful on mobile).](nostr://npub1ms4z8e2fsgjh75vtk8c9pym50gjvp3uxl7uru8v7c7pnd9empadq2ulevr)
 
 [Full guide here.](https://habla.news/a/naddr1qqnkummnw3ez6ut4da6x2uedvfhhgtts096xsmmw94eksetvdskhvetj0ykk2ctn0yqjzamnwvaz7tmjv4kxz7fww35x2mmjv9hxwetsd9kxcctswqhxxmmd9uqs7amnwvaz7tmw9eux6u3wwdjj7qglwaehxw309ahx7um5wghxymr0vd4hqmmhv4ezucmpwp5hgctv9uq3jamnwvaz7tmjv4kxz7fwwdhx7un59eek7cmfv9kz7qgewaehxw309aex2mrp0yhxzatnw3exjcmg9ehx2ap0qgs0plu8uaukh2r0ep95spajtfw7ugrdwfxx7cd23pfewk3emmh07kqrqsqqqa286tzjfv)
 
