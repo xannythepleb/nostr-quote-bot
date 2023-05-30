@@ -56,7 +56,7 @@ func main() {
 	// If not empty, copy remaining quotes back to it for next run
 	} else {
 		data, _ := json.Marshal(lines)
-		ioutil.WriteFile(tempFile, data, 0644)
+		ioutil.WriteFile(tempFile, data, 0664)
 	}
 	
 	// Finally, print a quote
