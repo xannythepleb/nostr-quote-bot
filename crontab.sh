@@ -1,3 +1,6 @@
+# PLEASE NOTE: An automated install script has now been added to the repo to install the script as a cronjob automatically!
+# I recommend using that instead. If on the other hand you are comfortable editing the crontab yourself, let this serve as a guide on what my working setup looks like.
+
 # put this in your crontab
 # crontab -e
 
