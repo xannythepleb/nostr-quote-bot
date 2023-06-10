@@ -48,6 +48,6 @@ nostr://npub1ms4z8e2fsgjh75vtk8c9pym50gjvp3uxl7uru8v7c7pnd9empadq2ulevr
 **Dependencies:**
 
 * Python 3 (for the Python script)
-* Go (for Noscl or the Go script)
+* Go (for Noscl and the Go script)
 * Noscl
 * Linux (tested on Ubuntu)
