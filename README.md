@@ -8,7 +8,7 @@
 
 A Nostr quote bot for Linux. Picks a random line from a text file and sends it to Nostr using [Noscl.](https://github.com/fiatjaf/noscl)
 
-Simply clone the repo and give the shell scripts execute permissions by running this command inside the `nostr-quote-bot` directory:
+Simply clone the repo to your home folder and give the shell scripts execute permissions by running this command inside the `nostr-quote-bot` directory:
 
 ```
 chmod +x install_nostr_bot.sh && chmod +x nostrquotes.sh && chmod +x gonostrquotes.sh
